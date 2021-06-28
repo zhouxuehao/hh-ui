@@ -11,6 +11,10 @@
 # production
 /build
 
+# 不要将我们编译出的文件提交到Git
+/esm
+/lib
+
 # misc
 .DS_Store
 .env.local
